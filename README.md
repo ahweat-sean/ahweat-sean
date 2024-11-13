@@ -44,6 +44,7 @@
 - [ahweat-sean](https://github.com/ahweat-sean/ahweat-sean)
 - [composer-json-file-generator](https://github.com/ahweat-sean/composer-json-file-generator)
 - [package-generator](https://github.com/ahweat-sean/package-generator)
+- [asset-files](https://github.com/ahweat-sean/asset-files)
 
 - - - - -
 
@@ -52,6 +53,7 @@
 - [ahweat-sean](https://github.com/ahweat-sean/ahweat-sean)
 - [composer-json-file-generator](https://github.com/ahweat-sean/composer-json-file-generator)
 - [package-generator](https://github.com/ahweat-sean/package-generator)
+- [asset-files](https://github.com/ahweat-sean/asset-files)
 
 - - - - -
 
