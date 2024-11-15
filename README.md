@@ -6,10 +6,9 @@
 
 - - - - -
 
-![ahweat-sean-stat-3](https://github-readme-stats.vercel.app/api/top-langs/?username=ahweat-sean&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+![ahweat-sean-stat-3](https://github-readme-stats.vercel.app/api/top-langs/?username=ahweat-sean&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![ahweat-sean-stat-1](https://github-readme-stats.vercel.app/api?username=ahweat-sean&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-![ahweat-sean-stat-2](https://github-readme-streak-stats.herokuapp.com/?user=ahweat-sean&theme=buefy&hide_border=true)
+![ahweat-sean-stat-1](https://github-readme-stats.vercel.app/api?username=ahweat-sean&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 - - - - -
 
